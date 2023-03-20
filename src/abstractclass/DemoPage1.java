@@ -6,6 +6,8 @@ public class DemoPage1 {
 	{
 		System.out.println(" Hi Samu ");
 		System.out.println(" Hi Samu How are you ");
+		System.out.println(" I am fine Daddy ");
+		System.out.println(" How are you");
 
 	}
 
